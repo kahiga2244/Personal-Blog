@@ -18,19 +18,6 @@ This  is a flask application that allows writers to post blogs, edit and delite 
 * A user sees random quotes on the site
 * A writer can create a blog from the application and update or delete blogs I have created.
 
-## BDD
-| Behaviour | Input | Output |
-| :---------------- | :---------------: | ------------------: |
-| Load the page | **On page load** | Get all blogs, Select between signup and login|
-| Select SignUp| **Email**,**Username**,**Password** | Redirect to login|
-| Select Login | **Username** and **password** | Redirect to page with blogs that have been posted by writes and be able to subscribe to the blog|
-| Select comment button | **Comment** | Form that you input your comment|
-| Click on submit |  | Redirect to all comments tamplate with your comment and other comments|
-|Subscription | **Email Address**| Flash message "Succesfully subsbribed to Home-Blog"|
-
-
-
-
 
 ## Development Installation
 To get the code..
@@ -71,7 +58,7 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at kahiga2244
+If you have any question or contributions, please email me at kahigakamiru@gmail.com
 
 ## License
 * *MIT License:*
