@@ -1,18 +1,13 @@
 # Home-Blog
 ## Author
 
-[Stephen Ndele](https://github.com/stephenndele)
+kahiga2244
 
 # Description
 This  is a flask application that allows writers to post blogs, edit and delite blogs. It also allows users who have signed up to comment on the blogs that has been posted by a writer. It also allows a person to subscribed to recieve email everytime a new blog is posted by a writer.
 
 ## Live Link
-[View Site](https://blogtimes.herokuapp.com/)
-
-## Screenshots
-
-
-
+[View Site](https://flask-blog254.herokuapp.com//)
 
 ## User Story
 
@@ -42,7 +37,7 @@ To get the code..
 
 1. Cloning the repository:
   ```bash
-  git clone https://github.com/stephenndele/blogging.git
+  git clone https://github.com/kahiga2244/Personal-Blog.git
   ```
 2. Move to the folder and install requirements
   ```bash
@@ -76,8 +71,8 @@ Open the application on your browser `127.0.0.1:5000`.
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [stephenndele093@gmail.com]
+If you have any question or contributions, please email me at kahiga2244
 
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Stephen Ndele**
+* Copyright (c) 2021 **kahiga2244**
