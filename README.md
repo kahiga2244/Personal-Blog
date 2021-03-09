@@ -1,4 +1,4 @@
-# Home-Blog
+# Personal-Blog
 ## Author
 
 kahiga2244
